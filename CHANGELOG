@@ -1,4 +1,4 @@
-Version 0.0.2+dev
+Version 0.1.0
 - use image nexendrie/php in GitLab CI and phing for testing (in GitLab CI)
 - use authoritative classmap with Composer
 - added generating and deploying documentation for GitLab CI
