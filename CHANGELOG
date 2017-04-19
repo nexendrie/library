@@ -1,3 +1,7 @@
+Version 0.0.2+dev
+- use image nexendrie/php in GitLab CI and phing for testing (in GitLab CI)
+- use authoritative classmap with Composer
+
 Version 0.0.2
 - added .gitattributes, CONTRIBUTING.md and CHANGELOG
 
