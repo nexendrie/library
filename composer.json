@@ -21,5 +21,8 @@
         "nexendrie/code-quality": "dev-master",
         "nette/tester": "dev-master",
         "nexendrie/site-generator": "1.0.x-dev"
+    },
+    "config": {
+        "classmap-authoritative": true
     }
 }
