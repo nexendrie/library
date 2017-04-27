@@ -1,13 +1,17 @@
 {
     "name": "nexendrie/library",
     "description": "A skeleton for libraries for Nexendrie Project",
+    "keywords": [
+      "skeleton", "library"
+    ],
     "type": "project",
     "license": "BSD-3-Clause",
     "homepage": "https://nexendrie.gitlab.io",
     "authors": [
         {
             "name": "Jakub Konečný",
-            "email": "jakub.konecny2@centrum.cz"
+            "email": "jakub.konecny2@centrum.cz",
+            "role": "Developer"
         }
     ],
     "support": {
@@ -21,6 +25,16 @@
         "nexendrie/code-quality": "dev-master",
         "nette/tester": "dev-master",
         "nexendrie/site-generator": "1.0.x-dev"
+    },
+    "autoload": {
+        "psr-4": {
+            "Nexendrie\\Library\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Nexendrie\\Library\\": "tests/"
+        }
     },
     "config": {
         "classmap-authoritative": true

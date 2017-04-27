@@ -1,5 +1,6 @@
 Version 0.1.0+dev
 - use phing for testing in Travis CI
+- added keywords and autoloading for Composer
 
 Version 0.1.0
 - use image nexendrie/php in GitLab CI and phing for testing (in GitLab CI)
