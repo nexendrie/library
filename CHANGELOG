@@ -1,6 +1,7 @@
 Version 0.2.0+dev
 - raised phpstan's level to 7
 - added basic files for testing
+- renamed .gitattributes (to keep it and listed files in releases)
 
 Version 0.2.0
 - use phing for testing in Travis CI
