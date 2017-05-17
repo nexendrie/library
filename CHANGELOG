@@ -1,3 +1,6 @@
+Version 0.2.0+dev
+- raised phpstan's level to 7
+
 Version 0.2.0
 - use phing for testing in Travis CI
 - added keywords and autoloading for Composer
