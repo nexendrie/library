@@ -1,5 +1,6 @@
 Version 0.3.0+dev
 - test also on php master on Travis CI
+- use codacy instead of coveralls
 
 Version 0.3.0
 - raised phpstan's level to 7
