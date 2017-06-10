@@ -1,3 +1,6 @@
+Version 0.3.0+dev
+- test also on php master on Travis CI
+
 Version 0.3.0
 - raised phpstan's level to 7
 - added basic files for testing
