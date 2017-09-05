@@ -1,5 +1,6 @@
 Version 0.4.0+dev
 - use scrutinizer instead of codacy
+- test also on PHP 7.2 (on both Travis CI and GitLab CI)
 
 Version 0.4.0
 - test also on php master on Travis CI
