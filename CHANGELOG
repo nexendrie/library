@@ -1,3 +1,6 @@
+Version 0.5.0+dev
+- added more files to .gitignore and .gitattributes
+
 Version 0.5.0
 - use scrutinizer instead of codacy
 - test also on PHP 7.2 (on both Travis CI and GitLab CI)
