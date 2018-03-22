@@ -32,7 +32,7 @@
     },
     "autoload-dev": {
         "psr-4": {
-            "Nexendrie\\Library\\": "tests/"
+            "Nexendrie\\Library\\": "tests/Nexendrie/Library"
         }
     },
     "config": {
