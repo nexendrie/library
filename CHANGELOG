@@ -1,5 +1,6 @@
 Version 0.5.0+dev
 - added more files to .gitignore and .gitattributes
+- travis is no longer allowed to fail with PHP 7.2
 
 Version 0.5.0
 - use scrutinizer instead of codacy
