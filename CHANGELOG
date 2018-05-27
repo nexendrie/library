@@ -1,4 +1,4 @@
-Version 0.5.0+dev
+Version 0.6.0
 - added more files to .gitignore and .gitattributes
 - travis is no longer allowed to fail with PHP 7.2
 - fixed path for dev-autoloading
