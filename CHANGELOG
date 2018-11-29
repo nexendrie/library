@@ -1,3 +1,6 @@
+Version 0.6.0+dev
+- test also on PHP 7.3 (on both Travis CI and GitLab CI)
+
 Version 0.6.0
 - added more files to .gitignore and .gitattributes
 - travis is no longer allowed to fail with PHP 7.2
