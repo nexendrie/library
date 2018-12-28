@@ -1,6 +1,7 @@
 Version 0.6.0+dev
 - test also on PHP 7.3 (on both Travis CI and GitLab CI)
 - use phing's targets from nexendrie/code-quality
+- raised minimal version of PHP to 7.2
 
 Version 0.6.0
 - added more files to .gitignore and .gitattributes
