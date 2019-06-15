@@ -1,5 +1,5 @@
-Version 0.6.0+dev
-- test also on PHP 7.3 (on both Travis CI and GitLab CI)
+Version 0.7.0-dev
+- test also on PHP 7.3 (on both Travis CI and GitLab CI) and 7.4 (just on Travis CI)
 - use phing's targets from nexendrie/code-quality
 - raised minimal version of PHP to 7.2
 - test also with lowest possible version of dependencies
